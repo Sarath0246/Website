@@ -1,3 +1,4 @@
-package1==1.0.0
-package2>=2.1.0
-package3<3.5.0
+Flask==2.0.1
+requests==2.25.1
+gunicorn==20.1.0
+# Add other valid dependencies here
